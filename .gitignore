@@ -1,0 +1,6 @@
+# Ignore specific script variations
+AICheck-*.py
+
+# Ignore the images directory
+/IMAGES/
+
